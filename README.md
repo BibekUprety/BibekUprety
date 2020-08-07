@@ -1,7 +1,7 @@
 # [![bibek upreti header]
 
 <p align='center'>
-<a href="https://www.instagram.com/bibek6765/"><img height="30" src="https://github.com/BibekUprety/Demo_Portfoilo_Website/blob/master/img/brands/logo1.png"></i></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/bibek6765/"><img height="30" src="https://github.com/BibekUprety/Demo_Portfoilo_Website/blob/master/img/github%20profile/instagram-sketched.png"></i></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/bibek-upreti/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
