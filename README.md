@@ -22,3 +22,7 @@
 - 💬 Ask me about Java
 - 📫 How to reach me:fireworks:[Bibek_Linkedin](https://www.linkedin.com/in/bibek-upreti/)
 
+https://github-readme-stats.vercel.app/api?username=bibekuprety
+
+<a src="https://github-readme-stats.vercel.app/api?username=bibekuprety"></a>
+
