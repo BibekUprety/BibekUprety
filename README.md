@@ -1,5 +1,5 @@
 
-# [![Bibek Upreti header](https://github.com/BibekUprety/Demo_Portfoilo_Website/blob/master/img/bibek.jpg)
+# [Bibek Upreti header](https://github.com/BibekUprety/Demo_Portfoilo_Website/blob/master/img/bibek.jpg)
 
 <p align='center'>
 <a href="https://www.instagram.com/bibek6765/"><img height="30" src="https://github.com/BibekUprety/Demo_Portfoilo_Website/blob/master/img/github%20profile/instagram-sketched.png"></i></a>&nbsp;&nbsp;
@@ -19,7 +19,6 @@
 - 🔭 I’m currently working on Spring boot
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Java
 - 📫 How to reach me:fireworks:[Bibek_Linkedin](https://www.linkedin.com/in/bibek-upreti/)
 
